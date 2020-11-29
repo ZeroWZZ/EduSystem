@@ -1,0 +1,22 @@
+#
+#Thu Oct 22 22:57:50 CST 2020
+com.qdu.service.AdminService=org.springframework.stereotype.Component
+com.qdu.service.ScoreService=org.springframework.stereotype.Component
+com.qdu.dao.CoursePlanDAO=org.springframework.stereotype.Component
+com.qdu.controller.LoginController=org.springframework.stereotype.Component
+com.qdu.service.BatchService=org.springframework.stereotype.Component
+com.qdu.service.ProfessionalService=org.springframework.stereotype.Component
+com.qdu.dao.CourseDAO=org.springframework.stereotype.Component
+com.qdu.dao.BatchDAO=org.springframework.stereotype.Component
+com.qdu.service.TeacherService=org.springframework.stereotype.Component
+com.qdu.service.CourseService=org.springframework.stereotype.Component
+com.qdu.service.CoursePlanService=org.springframework.stereotype.Component
+com.qdu.dao.ProfessionalDAO=org.springframework.stereotype.Component
+com.qdu.dao.ProfessionalPlanDAO=org.springframework.stereotype.Component
+com.qdu.controller.AdminController=org.springframework.stereotype.Component
+com.qdu.service.StudentService=org.springframework.stereotype.Component
+com.qdu.dao.StudentDAO=org.springframework.stereotype.Component
+com.qdu.dao.ScoreDAO=org.springframework.stereotype.Component
+com.qdu.dao.AdminDAO=org.springframework.stereotype.Component
+com.qdu.dao.TeacherDAO=org.springframework.stereotype.Component
+com.qdu.service.ProfessionalPlanService=org.springframework.stereotype.Component

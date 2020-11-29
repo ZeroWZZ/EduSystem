@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/web/WEB-INF/jsp/manager/coursemanage.jsp</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/src/java/com/qdu/dao/StudentDAO.java</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/web/WEB-INF/jsp/manager/teachermanage.jsp</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/web/teacher/main.jsp</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/web/WEB-INF/jsp/teacher/alterPassword.jsp</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/src/java/com/qdu/pojo/Course.hbm.xml</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/web/WEB-INF/jsp/manager/studentmanage.jsp</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/web/WEB-INF/jsp/manager/showStudentByBatch.jsp</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/src/java/com/qdu/pojo/Student.java</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/web/WEB-INF/jsp/manager/studentmodify.jsp</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/web/WEB-INF/jsp/manager/teachermodify.jsp</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/src/java/com/qdu/pojo/Teacher.java</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/web/WEB-INF/jsp/teacher/accountManage.jsp</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/src/java/com/qdu/controller/LoginController.java</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/src/java/com/qdu/service/TeacherService.java</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/web/student/frame.jsp</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/web/teacher/frame.jsp</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/web/css/style.css</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/web/teacher/left.jsp</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/web/WEB-INF/jsp/manager/coursemodify.jsp</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/web/manager/frame.jsp</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/web/WEB-INF/jsp/student/frame.jsp</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/src/java/com/qdu/pojo/Teacher.hbm.xml</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/web/manager/left.jsp</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/src/java/com/qdu/controller/AdminController.java</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/web/WEB-INF/jsp/teacher/frame.jsp</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/web/WEB-INF/jsp/manager/frame.jsp</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/web/WEB-INF/jsp/student/accountManage.jsp</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/web/WEB-INF/jsp/student/showProfessionalPlan.jsp</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/web/WEB-INF/jsp/login.jsp</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/web/WEB-INF/jsp/manager/teacheradd.jsp</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/web/WEB-INF/jsp/manager/courseadd.jsp</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/web/WEB-INF/jsp/fail.jsp</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/src/java/com/qdu/dao/TeacherDAO.java</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/web/teacher/top.jsp</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/src/java/com/qdu/pojo/Course.java</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/src/java/com/qdu/service/StudentService.java</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/web/WEB-INF/jsp/teacher/batchAndCourse.jsp</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/src/java/com/qdu/pojo/Student.hbm.xml</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/web/WEB-INF/jsp/teacher/chengJiWeiHu.jsp</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/web/WEB-INF/jsp/manager/showStudent.jsp</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/web/WEB-INF/jsp/teacher/addScore.jsp</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/web/WEB-INF/jsp/manager/studentadd.jsp</file>
+            <file>file:/G:/NIIT项目/集成5/EduSystem/src/java/com/qdu/dao/ScoreDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
